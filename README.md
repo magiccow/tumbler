@@ -1,7 +1,7 @@
 # tumbler
 Driving tumble dryer display from Arduino
 
-See also Youtube video: https://youtu.be/AcXCiF9_nTw
+See also Youtube video: https://youtu.be/1YeR1he4Gso
 
 Arduino sketches described in the video:
 
